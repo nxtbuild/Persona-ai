@@ -76,4 +76,4 @@ Add new personas in data in personas.ts
 - According to selection it's send message
 - Than your can send message by typing
 
-## Demo Link: https://mindcircleaichat.vercel.app/ 
+
